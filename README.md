@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Complicated Network configuration protocols**
 
-- 👯 I’m looking to collaborate on **ARP Spoof Mitigator tool**
+- 👯 I’m looking to collaborate on **ARP Spoofing Mitigation tool**
 
 - 💬 Ask me about **Any Protocols in Networking**
 
